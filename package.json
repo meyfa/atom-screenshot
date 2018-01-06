@@ -10,6 +10,7 @@
     "code"
   ],
   "repository": "https://github.com/meyfa/atom-screenshot",
+  "author": "Fabian Meyer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
