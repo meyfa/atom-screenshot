@@ -16,5 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "merge-images": "^1.0.7"
   }
 }
