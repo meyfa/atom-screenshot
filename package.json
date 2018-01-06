@@ -1,0 +1,19 @@
+{
+  "name": "screenshot",
+  "main": "./lib/screenshot",
+  "version": "0.0.0",
+  "description": "Atom editor plugin for creating code screenshots",
+  "keywords": [
+    "atom",
+    "screenshot",
+    "snapshot",
+    "code"
+  ],
+  "repository": "https://github.com/meyfa/atom-screenshot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
