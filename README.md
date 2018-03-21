@@ -17,8 +17,8 @@ editor needs to be active so that this package knows which code to capture.
 
 ## Example
 
-![Atom window with opened context menu showing the screenshot option](/images/context-menu.png)
+![Atom window with opened context menu showing the screenshot option](https://raw.githubusercontent.com/meyfa/atom-screenshot/master/images/context-menu.png)
 
 This is the output image:
 
-![Resulting screenshot image](/images/screenshot-take-result.png)
+![Resulting screenshot image](https://raw.githubusercontent.com/meyfa/atom-screenshot/master/images/screenshot-take-result.png)
