@@ -1,7 +1,7 @@
 {
   "name": "screenshot",
   "main": "./lib/screenshot",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Atom editor plugin for creating code screenshots",
   "keywords": [
     "atom",
@@ -16,6 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "merge-images": "^1.0.7"
+    "merge-images": "^1.1.0"
   }
 }
