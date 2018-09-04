@@ -13,7 +13,7 @@
   "author": "Fabian Meyer",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.28.0 <2.0.0"
   },
   "dependencies": {
     "merge-images": "^1.1.0"
