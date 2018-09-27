@@ -17,5 +17,22 @@
   },
   "dependencies": {
     "merge-images": "^1.1.0"
+  },
+  "configSchema": {
+    "openImage": {
+      "type": "boolean",
+      "default": false,
+      "description": "When enabled the screenshot will be opened in Atom once created."
+    },
+    "includeLineNumbersAndGutter": {
+      "type": "boolean",
+      "default": true,
+      "description": "When enabled the screenshot includes the gutter and line numbers."
+    },
+    "showWrapGuide": {
+      "type": "boolean",
+      "default": true,
+      "description": "When enabled the screenshot includes the wrap guide."
+    }
   }
 }
