@@ -34,5 +34,8 @@
       "default": true,
       "description": "When enabled the screenshot includes the wrap guide."
     }
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
   }
 }

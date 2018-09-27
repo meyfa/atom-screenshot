@@ -1,26 +1,26 @@
 {
-    "context-menu": {
-        "atom-text-editor": [
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Take Code Screenshot",
+        "command": "screenshot:take"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Screenshot",
+          "submenu": [
             {
                 "label": "Take Code Screenshot",
                 "command": "screenshot:take"
             }
-        ]
-    },
-    "menu": [
-        {
-            "label": "Packages",
-            "submenu": [
-                {
-                    "label": "Screenshot",
-                    "submenu": [
-                        {
-                            "label": "Take Code Screenshot",
-                            "command": "screenshot:take"
-                        }
-                    ]
-                }
-            ]
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
