@@ -15,8 +15,8 @@
           "label": "Screenshot",
           "submenu": [
             {
-                "label": "Take Code Screenshot",
-                "command": "screenshot:take"
+              "label": "Take Code Screenshot",
+              "command": "screenshot:take"
             }
           ]
         }
