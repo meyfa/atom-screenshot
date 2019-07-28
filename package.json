@@ -18,6 +18,9 @@
   "dependencies": {
     "merge-images": "^1.1.0"
   },
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
   "configSchema": {
     "openImage": {
       "type": "boolean",
@@ -34,8 +37,5 @@
       "default": true,
       "description": "When enabled the screenshot includes the wrap guide."
     }
-  },
-  "devDependencies": {
-    "standard": "^12.0.1"
   }
 }
