@@ -2,6 +2,8 @@
 
 **Atom editor plugin for creating code screenshots**
 
+[![Build Status](https://travis-ci.com/meyfa/atom-screenshot.svg?branch=master)](https://travis-ci.com/meyfa/atom-screenshot)
+
 With this package, you can take a screenshot of your code as it is shown in
 Atom. With syntax highlighting and line numbers, but without any menus or
 toolbars.

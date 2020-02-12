@@ -19,7 +19,16 @@
     "merge-images": "^1.1.0"
   },
   "devDependencies": {
-    "standard": "^13.1.0"
+    "standard": "^14.3.1"
+  },
+  "standard": {
+    "globals": [
+      "atom"
+    ]
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint"
   },
   "configSchema": {
     "openImage": {
