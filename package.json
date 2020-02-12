@@ -28,6 +28,7 @@
   },
   "scripts": {
     "lint": "standard",
+    "lint-fix": "standard --fix",
     "test": "npm run lint"
   },
   "configSchema": {
