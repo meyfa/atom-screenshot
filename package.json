@@ -16,10 +16,10 @@
     "atom": ">=1.28.0 <2.0.0"
   },
   "dependencies": {
-    "merge-images": "^1.1.0"
+    "merge-images": "^2.0.0"
   },
   "devDependencies": {
-    "standard": "^14.3.1"
+    "standard": "^14.3.3"
   },
   "standard": {
     "globals": [
