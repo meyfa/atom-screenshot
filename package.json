@@ -1,7 +1,7 @@
 {
   "name": "screenshot",
   "main": "./lib/screenshot",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "description": "Atom editor plugin for creating code screenshots",
   "keywords": [
     "atom",
@@ -36,8 +36,14 @@
       "type": "string",
       "default": "clipboard",
       "enum": [
-        { "value": "clipboard", "description": "Copy to clipboard (with option to save)" },
-        { "value": "saveprompt", "description": "Open a save prompt" }
+        {
+          "value": "clipboard",
+          "description": "Copy to clipboard (with option to save)"
+        },
+        {
+          "value": "saveprompt",
+          "description": "Open a save prompt"
+        }
       ]
     },
     "openImage": {
