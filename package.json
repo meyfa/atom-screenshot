@@ -32,10 +32,18 @@
     "test": "npm run lint"
   },
   "configSchema": {
+    "actionOnFinish": {
+      "type": "string",
+      "default": "clipboard",
+      "enum": [
+        { "value": "clipboard", "description": "Copy to clipboard (with option to save)" },
+        { "value": "saveprompt", "description": "Open a save prompt" }
+      ]
+    },
     "openImage": {
       "type": "boolean",
       "default": false,
-      "description": "When enabled the screenshot will be opened in Atom once created."
+      "description": "When enabled the screenshot will be opened in Atom once saved."
     },
     "includeLineNumbersAndGutter": {
       "type": "boolean",
