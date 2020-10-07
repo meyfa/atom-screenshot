@@ -51,6 +51,11 @@
       "default": false,
       "description": "When enabled the screenshot will be opened in Atom once saved."
     },
+    "excludeTrailingNewline": {
+      "type": "boolean",
+      "default": true,
+      "description": "When enabled and a whole-file screenshot is taken, the final empty line will be excluded."
+    },
     "includeLineNumbersAndGutter": {
       "type": "boolean",
       "default": true,
