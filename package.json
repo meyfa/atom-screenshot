@@ -1,7 +1,7 @@
 {
   "name": "screenshot",
   "main": "./lib/screenshot",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Atom editor plugin for creating code screenshots",
   "keywords": [
     "atom",
