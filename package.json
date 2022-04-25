@@ -19,7 +19,7 @@
     "merge-images": "^2.0.0"
   },
   "devDependencies": {
-    "standard": "^16.0.3"
+    "standard": "16.0.3"
   },
   "standard": {
     "globals": [
